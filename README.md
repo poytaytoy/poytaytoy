@@ -2,6 +2,13 @@
 
 Hello, I'm Clement Chung! Someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots mroe to leanrn! Hope you enjoy some of my projects, enjoy :)
 
+Programming languages/Framework that I use
+
+- Python
+- React/TypeScript
+- HTML + CSS + JS
+- Java
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
