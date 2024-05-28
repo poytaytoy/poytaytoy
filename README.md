@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Clement Chung! Someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots mroe to leanrn! Hope you enjoy some of my projects, enjoy :)
+Hello, I'm Clement Chung! Someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots more to leanrn! Hope you enjoy some of my projects, enjoy :)
 
 Programming languages/Framework that I use
 
