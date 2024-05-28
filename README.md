@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hello there [<img src="[https://giphy.com/embed/26FPDFh6P6u3MYjqE](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)" width="35px">](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
+ <h1> Hello there <img src="[https://giphy.com/embed/26FPDFh6P6u3MYjqE](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)" width="35px">
  </h1>
 
  </div>
