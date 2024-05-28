@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hello there <img src="https://giphy.com/embed/26FPDFh6P6u3MYjqE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/meetaiko-weird-angry-derp-26FPDFh6P6u3MYjqE" width = "30px">
+ <h1> Hello there <img src="https://giphy.com/embed/26FPDFh6P6u3MYjqE" width="35px">
  </h1>
 
  </div>
