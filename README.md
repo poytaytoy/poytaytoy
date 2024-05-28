@@ -1,11 +1,11 @@
 <div align="center">
- <h1> Hi, I'm d2i-23! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ <h1> Hello there <iframe src="https://giphy.com/embed/26FPDFh6P6u3MYjqE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/meetaiko-weird-angry-derp-26FPDFh6P6u3MYjqE">via GIPHY</a></p>
  </h1>
 
  </div>
 
 
-I am someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots more to leanrn! Hope you enjoy some of my projects :)
+I'm Clement, someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots more to leanrn! Hope you enjoy some of my projects :)
 
 ## Languages
 
