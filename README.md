@@ -1,6 +1,10 @@
-## Hi there 👋
+<div align="center">
+ <h1> Hi, I'm Clement Chung! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ </h1>
 
-Hello, I'm Clement Chung! Someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots more to leanrn! Hope you enjoy some of my projects, enjoy :)
+ </div>
+
+I am someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots more to leanrn! Hope you enjoy some of my projects, enjoy :)
 
 Programming languages/Framework that I use
 
