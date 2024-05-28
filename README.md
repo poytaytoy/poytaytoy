@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hello, I'm Clement Chung! Someone that enjoys building web application and data processing. I'm still a noob in programming and haves lots mroe to leanrn! Hope you enjoy some of my projects, enjoy :)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 <!--
 **d2i-23/d2i-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
