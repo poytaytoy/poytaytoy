@@ -1,7 +1,6 @@
 <div align="center">
- <h1> Hello there 
+ <h1> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello there <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 
  </h1>
-<img src="https://giphy.com/embed/26FPDFh6P6u3MYjqE" width="35px">
  </div>
 
 
@@ -17,8 +16,6 @@ I'm Clement, someone that enjoys building web application and data processing. I
 
 
  ![d2i-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2i-23&show_icons=true&theme=radical)
-
-
 
 
 
