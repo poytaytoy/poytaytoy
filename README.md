@@ -12,8 +12,12 @@ Programming languages/Framework that I use
 - React/TypeScript
 - HTML + CSS + JS
 - Java
+<div align="center">
+ ![d2i-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2i-23&show_icons=true&theme=radical)
 
-![d2i-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2i-23&show_icons=true&theme=radical)
+ </div>
+
+
 
 
 <!--
