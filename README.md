@@ -9,7 +9,7 @@ Programming languages/Framework that I use
 - HTML + CSS + JS
 - Java
 
-
+![d2i-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2i-23a&show_icons=true&theme=radical)
 
 
 <!--
