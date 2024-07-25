@@ -4,7 +4,7 @@
  </div>
 
 
-I'm someone that enjoys building web application and data processing. I'm still a noob in programming and have lots more to learn! Hope you enjoy some of my projects :)
+I'm someone that enjoys building web application and data processing. I sometimes post some of random works I've done. 
 
 ## Languages
 
