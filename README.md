@@ -4,5 +4,5 @@
  </div>
 
 
-I'm a basement goober that post some of the random works I've done. Enjoy :)
+I'm a basement goober that post some of the random works I've done. Enjoy
 -->
