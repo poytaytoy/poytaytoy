@@ -7,8 +7,12 @@
 I'm a basement goober that post some of the random works I've done. Enjoy :DDD
 
  /\_____/\
+ 
 ( ͡° ͜ʖ ͡° )
+
 (    ◞‸◟ )
+
 /つ    づ
+
 meow :3
 
