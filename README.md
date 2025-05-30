@@ -4,7 +4,7 @@
  </div>
 
 
-I'm a basement goober that post some of the random works I've done. Wants to be the most epic coder. Enjoy :DDD
+I'm a basement goober that post some of the random works I've done. Morbing into the most epic coder. Enjoy :DDD
 
  /\_____/\
  
