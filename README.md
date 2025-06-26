@@ -4,7 +4,7 @@
  </div>
 
 
-I'm a cs student @ uwaterloo and a basement goober that post some of the random works I've done. Turning into the most epic coder. Enjoy :DDD
+I'm a cs student @ uwaterloo and a basement goober that post some of my random work. Turning into the most epic coder. Enjoy :DDD
 
  /\_____/\
  
