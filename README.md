@@ -15,3 +15,5 @@ I'm a random cs student @ uwaterloo and a basement goober that post some of the 
 
 meow :3
 
+Contact: c58chung@uwaterloo.ca
+
