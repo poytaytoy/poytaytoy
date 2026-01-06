@@ -4,7 +4,7 @@
  </div>
 
 
-I'm a cs student @ uwaterloo and a basement goober that post some of my random work. Turning into the most epic coder. Enjoy :DDD
+I'm a cs student @ uwaterloo and a hobbyist program. All my projects are the result of me tinkering with random stuff over the years.  
 
  /\_____/\
  
@@ -13,5 +13,5 @@ I'm a cs student @ uwaterloo and a basement goober that post some of my random w
 
 /つ    づ
 
-meow :3
+no whammy :3
 
